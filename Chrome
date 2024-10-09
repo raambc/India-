@@ -1,0 +1,21 @@
+
+
+Windows 11 Auto-Update Management: Initiated discussions with Principal Engineers regarding the need to disable automatic updates. Finalized an Intune policy to control auto-update versions.
+
+Business Continuity Plan (BCP) for EMIE (Shoreview): Successfully handled end-to-end network isolation BCP from India without the intervention of the US Edge Product Owner. Involved the Engineering Operations team for a warm handover for future BCP exercises. Coordinated meetings with the team and provided supporting documentation for the upcoming EMIE BCP handover.
+
+Edge Product Support for BCP Exercise: Assisted the Product Owner in preparing the Silas and Oxmoor PCF Retest BCP exercise.
+
+Symphony Desktop Client: Successfully tested and implemented browser-related group policy settings.
+
+AI/ML for Chromium-Based Browsers: Proposed an AI/ML-based proactive alerting and code review mechanism for Chromium browsers. Engaged senior team members, brainstormed, and submitted a partial working solution with a whitepaper.
+
+MIM Calls: Handled false-positive MIM calls related to Edge and Chrome browsers.
+
+PDF Creator Removal: Progressing in phases with the removal of PDF Creator (two phases completed, two remaining). Initiated vendor termination agreement and engaged the Technology team with a clear escalation path. Empowered the new Adobe Acrobat Product Owner with necessary tools and supported a smooth signoff from the RPA team.
+
+Chrome and Edge Auto-Update Issue: Identified and blocked a problematic auto-update URL. Investigating an issue where registry values for disabling auto-updates are being removed, leading to unintended browser updates. A Microsoft case has been opened for further investigation.
+
+Chrome in RHEL7: Engaging teams regarding the discontinuation of Chrome support in RHEL7, exploring options for retirement or exclusion from Linux servers.
+
+
